@@ -1,0 +1,7 @@
+com\mycompany\aautombile\AAutombile.class
+com\mycompany\aautombile\dataaccessobjet\DaoAutomobiles.class
+com\mycompany\aautombile\Enum\CarType.class
+com\mycompany\aautombile\Enum\FuelType.class
+com\mycompany\aautombile\Enum\Color.class
+com\mycompany\aautombile\datasource\Automobiles.class
+com\mycompany\aautombile\Automobile.class
